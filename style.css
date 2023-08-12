@@ -1,0 +1,22 @@
+*{
+    margin: 10px;
+}
+#one{
+    border: 1px solid black;
+}
+#dog-img{
+    width: 60%;
+    height: 40%;
+}
+#one #div-one h1{
+    margin-left: -1px;
+}
+#one{
+    padding-left: 10px;
+}
+#third ol{
+    margin-left: -20px;
+}
+#third #div-third h1{
+    margin-left: 1px;
+}
